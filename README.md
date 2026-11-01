@@ -1,4 +1,3 @@
-
 <h2 data-importer="text" align="left">Hi 👋! My name is Ridhim Sharma</h2>
 
 ###
